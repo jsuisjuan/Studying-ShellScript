@@ -1,0 +1,1 @@
+echo "estou adicionando algo" >> test.txt
